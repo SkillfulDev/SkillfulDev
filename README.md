@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yevhen Chernonog
 
 - 👀 I’m interested in programming and transitioning into software development.
-- 🌱 I work with Java, Spring Boot, Spring Security, Hibernate, MySQL, PostgreSQL, Docker, and Telegram Bot.
+- 🌱 I work with Java, Spring Boot, Spring Security, Hibernate, MySQL, PostgreSQL, Docker.
 - 💞️ I’m looking to collaborate with professional people and grow.
 - 📫 How to reach me: [chernonog.evgeniy@gmail.com](mailto:chernonog.evgeniy@gmail.com)
 
