@@ -19,7 +19,7 @@ This application combines a "Shopping List" and a "Notepad" into a single, user-
 - **RecyclerView and Adapters:** Employs advanced use of RecyclerView and its Adapters to display various types of content efficiently within a single adapter.
 - **LiveData:** Leverages LiveData for real-time data observation and updates, enhancing the app's responsiveness and interactivity.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillfulDev&repo=smart-shopper)](https://github.com/SkillfulDev/SmartShopper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SkillfulDev&repo=smartshopper)](https://github.com/SkillfulDev/SmartShopper)
 
 ### Online Bookstore API
 A comprehensive example of building a fully functional online bookstore using Spring Boot.
