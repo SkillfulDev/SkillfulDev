@@ -7,6 +7,20 @@
 
 ## 📌 Pinned Repositories
 
+### Shopping List and Notepad App
+This application combines a "Shopping List" and a "Notepad" into a single, user-friendly app designed for everyday use. Built with a robust architecture and modern technologies, this app provides a seamless and efficient experience for managing shopping lists and taking notes.
+- **Room Persistence Library:** Utilizes the Room library for efficient management of SQLite databases, including the creation and handling of complex table relationships.
+- **MVVM Architecture:** Implements the MVVM (Model-View-ViewModel) architecture pattern to ensure a clean, maintainable, and scalable codebase.
+- **In-App Purchases and Ads:** Integrated features for in-app purchases and advertisements to enhance functionality and provide potential monetization.
+- **Preference Screen:** Includes a customizable settings screen using the Preference Screen to allow users to tailor the app to their preferences.
+- **Dynamic Themes:** Features the ability to switch themes within the app, providing a personalized user experience.
+- **Advanced User Interface:** Carefully designed layouts and interfaces using Fragments and RecyclerView to ensure an intuitive and responsive user experience.
+- **AlertDialogs:** Utilizes AlertDialogs for user interactions, data input, and notifications.
+- **RecyclerView and Adapters:** Employs advanced use of RecyclerView and its Adapters to display various types of content efficiently within a single adapter.
+- **LiveData:** Leverages LiveData for real-time data observation and updates, enhancing the app's responsiveness and interactivity.
+
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=YevhenChernonog&repo=shopping-list-notepad)](https://github.com/YevhenChernonog/shopping-list-notepad](https://github.com/SkillfulDev/SmartShopper))
+
 ### Online Bookstore API
 A comprehensive example of building a fully functional online bookstore using Spring Boot.
 - **Spring Boot:** Core framework for building the application.
