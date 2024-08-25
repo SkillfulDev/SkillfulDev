@@ -45,8 +45,7 @@ This project aims to solve the issues faced by a manual car-sharing service in t
 - **Testing:** JUnit, Espresso
 - **Tools & Libraries:** Android Studio, Gradle, Firebase
 - **Principles/Concepts:** MVVM, Clean Architecture, SOLID Principles
-  
-
+##  
 - **Java Development:** Java Core, OOP, Java 8, Collections
 - **DB:** JDBC, Hibernate, RDBMS (MySQL, PostgreSQL)
 - **Spring:** Spring Core, Spring Web, Spring Security, Spring Boot
