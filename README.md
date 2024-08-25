@@ -39,6 +39,12 @@ This project aims to solve the issues faced by a manual car-sharing service in t
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jv-feb24-team1&repo=car-sharing-service)](https://github.com/jv-feb24-team1/car-sharing-service)
 
 ## 🛠 Skills
+- **Android Development:** Kotlin, Android SDK, Room, LiveData, ViewModel, Retrofit
+- **UI Design:** XML Layouts, RecyclerView, Fragments, Material Design
+- **Version Control:** Git, GitHub
+- **Testing:** JUnit, Espresso
+- **Tools & Libraries:** Android Studio, Gradle, Firebase
+- **Principles/Concepts:** MVVM, Clean Architecture, SOLID Principles
 
 - **Java Development:** Java Core, OOP, Java 8, Collections
 - **DB:** JDBC, Hibernate, RDBMS (MySQL, PostgreSQL)
